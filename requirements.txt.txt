@@ -1,0 +1,13 @@
+# Manipulação de Dados
+pandas
+
+# Conexão com Banco de Dados (PostgreSQL)
+sqlalchemy
+psycopg2-binary
+
+# Visualização e Dashboards
+streamlit
+plotly
+
+# Utilitários (Opcional, mas recomendado para o SQLAlchemy)
+greenlet

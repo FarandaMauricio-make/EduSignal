@@ -1,0 +1,15 @@
+# Ambientes virtuais
+venv/
+
+# Microdados e Bases do INEP (Grandes demais para o GitHub)
+data_raw/
+data/
+*.csv
+*.zip
+
+# Arquivo do Power BI (Seu arquivo tem 197MB, o limite do Git é 100MB)
+EduSignalBI
+*.pbix
+
+# Caches do Python
+__pycache__/
