@@ -17,7 +17,7 @@ O objetivo deste painel é fornecer uma visão geoespacial e analítica das taxa
 ## 🖼️ Visualização
 > **Nota:** Devido ao limite de tamanho do GitHub (100MB), o arquivo `.pbix` original (~197MB) não está disponível para download direto. Abaixo está o registro visual da interface:
 
-![Dashboard EduSignal Analytics](visual_inicial.png)
+![Interface do Dashboard](Dashboard/streamlit/visual_inicial.png)
 
 ## 🚀 Como Replicar
 1. Suba a infraestrutura de banco de dados usando o `docker-compose.yml` na pasta `/database`.
