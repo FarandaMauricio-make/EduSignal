@@ -5,6 +5,8 @@
 
 O **EduSignal** é um ecossistema de inteligência de dados projetado para monitorar e analisar o fluxo escolar no Brasil. Utilizando microdados reais do **INEP** (Censo Escolar e Taxas de Rendimento), o projeto transforma milhões de registros brutos em insights acionáveis para combater a evasão e o abandono escolar.
 
+![Interface do Dashboard](Dashboard/streamlit/visual_inicial.png)
+
 ## 🎯 O Problema
 A média nacional de educação muitas vezes esconde "bolhas" críticas de evasão. O EduSignal foca em identificar esses gargalos específicos, como a transição do 9º ano do Fundamental para o Ensino Médio, onde taxas de abandono podem chegar a níveis críticos (ex: 5.64% identificados em redes estaduais específicas).
 
